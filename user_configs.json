@@ -1,0 +1,18 @@
+{
+	"repos": [
+		{
+			"url": "https://github.com/Palafx/anony_commissions",
+			"repo_name": "Anony Commissions",
+			"repo_path": "./repositories/EP-Customs",
+			"should_update": true,
+			"should_read": true
+		},
+		{
+			"url": "https://github.com/Palafx/fieldpics",
+			"repo_name": "EP Custom Field pictures",
+			"repo_path": "./pics/field",
+			"should_update": true,
+			"should_read": true
+		}
+	]
+}
